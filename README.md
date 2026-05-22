@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anjeep 👋
 
-<!--
-**anjeepshrestha266-art/anjeepshrestha266-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Cybersecurity at AIBI Higher Education College, Sydney  
+🔐 Passionate about ethical hacking, network security & secure software development  
+🐍 Python & C++ developer | Web developer | Network security enthusiast  
+🌏 Based in Sydney, Australia | Aiming to build a long-term career in cybersecurity  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** Python, C++
+- **Areas:** Network security, Web development, Ethical hacking
+- **Platforms:** TryHackMe, GitHub
+- **Soft skills:** Team collaboration, problem solving
+
+---
+
+## 📚 Currently
+- 🔭 Working through TryHackMe rooms to sharpen penetration testing skills
+- 🌱 Building cybersecurity projects to grow my portfolio
+- 📖 Studying for eJPT certification (planned)
+
+---
+
+## 🔗 Connect with me
+- [LinkedIn](linkedin.com/in/anjeep-shrestha-0249b1265)
+- [TryHackMe](https://tryhackme.com/p/anjeepshrestha266)
